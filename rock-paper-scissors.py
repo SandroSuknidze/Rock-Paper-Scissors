@@ -9,15 +9,15 @@ if x == "yes":
     elif y == 1 and p_input == "paper":
         print("Computer chose rock\nYou won")
     elif y == 1 and p_input == "rock":
-        print("Computer chose rock\nIt's tie")
+        print("Computer chose rock\nIt's a tie")
     elif y == 2 and p_input == "scissors":
         print("Computer chose paper\nYou won")
     elif y == 2 and p_input == "paper":
-        print("Computer chose paper\nIt's tie")
+        print("Computer chose paper\nIt's a tie")
     elif y == 2 and p_input == "rock":
         print("Computer chose paper\nYou lost")
     elif y == 3 and p_input == "scissors":
-        print("Computer chose scissors\nIt's tie")
+        print("Computer chose scissors\nIt's a tie")
     elif y == 3 and p_input == "paper":
         print("Computer chose scissors\nYou lost")
     elif y == 3 and p_input == "rock":
