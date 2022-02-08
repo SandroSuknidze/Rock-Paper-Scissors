@@ -23,6 +23,6 @@ if x == "yes":
     elif y == 3 and p_input == "rock":
         print("Computer chose scissors\nYou won")
     else:
-        print("mose")
+        print("Rerun the program")
 else:
     print("Have a nice day!")
